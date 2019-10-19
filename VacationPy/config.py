@@ -1,0 +1,1 @@
+gkey = "AIzaSyBZys6CNsRmztXRk30CJjHwZHMmRqJxCbM"
