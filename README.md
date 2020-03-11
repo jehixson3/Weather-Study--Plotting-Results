@@ -10,6 +10,6 @@ A copy of the data created and used in the study is located in Outputs/Weather_D
 
 Best Vacation Spots 
 
-This study used the data from the previous analysis that was reduced using specific weather element conditions to find the ideal vacation spot.  Those conditions included the temperatures being between 50-62 degrees Farenheit, 80% cloudiness and less than 15 miles an hour windspeed. The information was used to create a layered gmap with a marker layer containing the Country, City and Hotel Name.
+This study used the data from the previous analysis that was reduced using specific weather element conditions to find the ideal vacation spot.  Those conditions included the temperatures being between 50-62 degrees Farenheit, 80% cloudiness and less than 15 miles an hour windspeed. The information was used to create a layered gmap with a marker layer containing the Country, City and Hotel Name.  Copies of the png files showing the two maps are located in VacationPY/Outputs/ folder.
 
 
