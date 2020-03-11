@@ -6,6 +6,10 @@ Weather Study that gathers weather data from API calls that match randomly gener
 
 The study began with generating 1500 random longitude and latitudes coordinates which were mapped to the closest city using the citipy library to capture the nearest cities actual coordinates. The data was loaded into a dataframe along with columns to store the different weather elements.  An API call was made to http://api.openweathermap.org/data that matched our actual coordinates.  The weather elements were put in the dataframe so the data could be plotted.  Each of the weather elements was plotted individually.
 
-A copy of the data created and used in the study is located in Outputs/Weather_Data_API.csv.  Copies of the charts comparing the various weather elements and the corresponding latitude of the cities.
+A copy of the data created and used in the study is located in Outputs/Weather_Data_API.csv.   Copies of the charts comparing the various weather elements and the corresponding latitude of the cities.
+
+Best Vacation Spots 
+
+This study used the data from the previous analysis that was reduced using specific weather element conditions to find the ideal vacation spot.
 
 
